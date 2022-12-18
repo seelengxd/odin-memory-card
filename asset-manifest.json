@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/odin-memory-card/static/css/main.ed07b62f.css",
+    "main.js": "/odin-memory-card/static/js/main.5a06b7ba.js",
+    "static/js/787.d6a8b40f.chunk.js": "/odin-memory-card/static/js/787.d6a8b40f.chunk.js",
+    "static/media/lapras.jpeg": "/odin-memory-card/static/media/lapras.ad1129d79b3c717386f9.jpeg",
+    "static/media/porygon.jpeg": "/odin-memory-card/static/media/porygon.b8e28fe01877728c2353.jpeg",
+    "static/media/raichu.jpeg": "/odin-memory-card/static/media/raichu.58fb4d03d60cb7b10b4f.jpeg",
+    "static/media/ivysaur.jpeg": "/odin-memory-card/static/media/ivysaur.877a3b3a84913de59b0a.jpeg",
+    "static/media/squirtle.jpeg": "/odin-memory-card/static/media/squirtle.99c4883efd0229bd8a5b.jpeg",
+    "static/media/spearow.jpeg": "/odin-memory-card/static/media/spearow.5122962085501be6ca4a.jpeg",
+    "static/media/psyduck.jpeg": "/odin-memory-card/static/media/psyduck.6062af286b45d3da105f.jpeg",
+    "static/media/nidoran.jpeg": "/odin-memory-card/static/media/nidoran.7462c5e034862045fa58.jpeg",
+    "static/media/charmander.jpeg": "/odin-memory-card/static/media/charmander.ac1ad81e1da471b67735.jpeg",
+    "index.html": "/odin-memory-card/index.html",
+    "main.ed07b62f.css.map": "/odin-memory-card/static/css/main.ed07b62f.css.map",
+    "main.5a06b7ba.js.map": "/odin-memory-card/static/js/main.5a06b7ba.js.map",
+    "787.d6a8b40f.chunk.js.map": "/odin-memory-card/static/js/787.d6a8b40f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed07b62f.css",
+    "static/js/main.5a06b7ba.js"
+  ]
+}
